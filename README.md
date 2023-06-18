@@ -19,7 +19,9 @@ To add ZLS into your proyect you need to follow these steps:
 >
 > ### The ZaisLyricSync class needs 3 arguments.
 > > A valid `HTMLDOMELEMENT` selected with the class `.zls-lyric-holder`.
+> >
 > > A valid `HTMLMEDIAELEMENT`.
+> > 
 > > A valid `Object` with the lyrics inside.
 >
 > Our code needs to look like this
