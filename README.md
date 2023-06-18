@@ -30,7 +30,7 @@ To add ZLS into your proyect you need to follow these steps:
 >
 >const song = new Audio();
 >const zlsHolder = document.querySelector('.zls-lyric-holder');
->const lyrics = { "lyrics": "[1.38] This is an example\n[18.89] of zls\n[23.27]  " }
+>const lyrics = { "lyrics": "[1.38] This is an example\n[2.89] of zls\n[3.27]  " }
 >
 >const ZLSInstance = new ZaisLyricSync(zlsHolder, song, lyrics);
 > ```
