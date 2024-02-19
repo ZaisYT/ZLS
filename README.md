@@ -35,4 +35,4 @@ To add ZLS into your proyect you need to follow these steps:
 >const ZLS = new ZaisLyricSync(holder, song, lyrics);
 > ```
 
-## 3. 
+## 3. Enjoy!
